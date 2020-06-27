@@ -30,7 +30,7 @@
         android:textSize="24sp"
         tools:text="Britt-Marie Was Here" />
 
-    
+
     <TextView
 
         android:id="@+id/tvOverview"
